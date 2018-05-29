@@ -1,0 +1,11 @@
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\bin\Debug\Google.ProtocolBuffersLite.dll
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\bin\Debug\protoDll.dll
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\obj\x86\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\obj\x86\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\obj\x86\Debug\SocketServer.csproj.CopyComplete
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Horizon\Desktop\学习\GameServerCsharp\SocketServer\obj\x86\Debug\SocketServer.pdb
