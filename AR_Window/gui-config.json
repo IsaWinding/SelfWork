@@ -1,0 +1,69 @@
+{
+	"configs" : [
+		{
+			"remarks" : "s1-us2",
+			"server" : "vu2.fanwai.tk",
+			"server_port" : 100,
+			"server_udp_port" : 0,
+			"password" : "@jz",
+			"method" : "chacha20",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "czEtdXMy",
+			"group" : "",
+			"udp_over_tcp" : false,
+			"protocol" : "auth_aes128_md5",
+			"enable" : true,
+			"id" : "05D996C4D3D064A296280DF8F53B581E"
+		},
+		{
+			"remarks" : "常用",
+			"server" : "sg1.fanwai.tk",
+			"server_port" : 11131,
+			"server_udp_port" : 0,
+			"password" : "939928",
+			"method" : "aes-256-cfb",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "5bi455So",
+			"group" : "",
+			"udp_over_tcp" : false,
+			"protocol" : "origin",
+			"enable" : true,
+			"id" : "A9E216E94649D28A98F54CE908C9B212"
+		}
+	],
+	"index" : 1,
+	"random" : false,
+	"sysProxyMode" : 1,
+	"shareOverLan" : false,
+	"bypassWhiteList" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "JDhDJCDTuWf_uyVL-6xN",
+	"dns_server" : null,
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 0,
+	"TTL" : 0,
+	"connect_timeout" : 5,
+	"proxyRuleMode" : 0,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}

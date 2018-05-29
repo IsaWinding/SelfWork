@@ -1,0 +1,9 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+tvb.com
+fqssr.com
+ssorz.com
+google.com
+facebook.com
+tumblr.com
+feijiasu.com
